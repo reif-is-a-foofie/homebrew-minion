@@ -1,8 +1,8 @@
 class Minion < Formula
   desc "Local-first memory + persona toolkit (ChatGPT export → MCP + evidence-based core profile)"
   homepage "https://github.com/reif-is-a-foofie/minion"
-  url "https://github.com/reif-is-a-foofie/minion/archive/07475591ed10471dbaf906990dd30a85ccb0dbf4.tar.gz"
-  sha256 "dd5e1fbbeb7e15fca11c4b3f930b3ea74d16c22e348cbc6be1c6b6cb3c0cd1f8"
+  url "https://github.com/reif-is-a-foofie/minion/archive/d8ec500f8bdba62cc22daad081d505f4a384da1e.tar.gz"
+  sha256 "238617810b199b9132285a78bcca34965b36345f6e76182fa6a348d707071eb3"
   license "Unlicense"
 
   depends_on "python@3.11"
